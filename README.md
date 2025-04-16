@@ -1,51 +1,80 @@
-# ArcticDepthJetBrains
-
-![Build](https://github.com/MarvellinusVincent/ArcticDepthJetBrains/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/MARKETPLACE_ID.svg)](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/MARKETPLACE_ID.svg)](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID)
-
-## Template ToDo list
-- [x] Create a new [IntelliJ Platform Plugin Template][template] project.
-- [ ] Get familiar with the [template documentation][template].
-- [ ] Adjust the [pluginGroup](./gradle.properties) and [pluginName](./gradle.properties), as well as the [id](./src/main/resources/META-INF/plugin.xml) and [sources package](./src/main/kotlin).
-- [ ] Adjust the plugin description in `README` (see [Tips][docs:plugin-description])
-- [ ] Review the [Legal Agreements](https://plugins.jetbrains.com/docs/marketplace/legal-agreements.html?from=IJPluginTemplate).
-- [ ] [Publish a plugin manually](https://plugins.jetbrains.com/docs/intellij/publishing-plugin.html?from=IJPluginTemplate) for the first time.
-- [ ] Set the `MARKETPLACE_ID` in the above README badges. You can obtain it once the plugin is published to JetBrains Marketplace.
-- [ ] Set the [Plugin Signing](https://plugins.jetbrains.com/docs/intellij/plugin-signing.html?from=IJPluginTemplate) related [secrets](https://github.com/JetBrains/intellij-platform-plugin-template#environment-variables).
-- [ ] Set the [Deployment Token](https://plugins.jetbrains.com/docs/marketplace/plugin-upload.html?from=IJPluginTemplate).
-- [ ] Click the <kbd>Watch</kbd> button on the top of the [IntelliJ Platform Plugin Template][template] to be notified about releases containing new features and fixes.
-
 <!-- Plugin description -->
-This Fancy IntelliJ Platform Plugin is going to be your implementation of the brilliant ideas that you have.
+<p align="center">
+  <img alt="Logo" src="logo_black.png" width="100" />
+</p>
+<h1 align="center">
+  ❄️ Arctic Depth Theme for JetBrains
+</h1>
+<p align="center">
+  A sleek, high-contrast dark blue theme designed for developers who love rich blues and a futuristic aesthetic.<br />
+  Now available on <a href="https://plugins.jetbrains.com/plugin/YOUR_PLUGIN_ID">JetBrains</a>, <a href="https://marketplace.visualstudio.com/items?itemName=MarvellinusVincent.arctic-depth">VS Code</a>, <a href="https://www.npmjs.com/package/arctic-depth">npm</a>, and <a href="https://www.npmjs.com/package/arctic-depth-zed">Zed</a>.
+</p>
 
-This specific section is a source for the [plugin.xml](/src/main/resources/META-INF/plugin.xml) file which will be extracted by the [Gradle](/build.gradle.kts) during the build process.
-
-To keep everything working, do not remove `<!-- ... -->` sections. 
-<!-- Plugin description end -->
-
-## Installation
-
-- Using the IDE built-in plugin system:
-  
-  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "ArcticDepthJetBrains"</kbd> >
-  <kbd>Install</kbd>
-  
-- Using JetBrains Marketplace:
-
-  Go to [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID) and install it by clicking the <kbd>Install to ...</kbd> button in case your IDE is running.
-
-  You can also download the [latest release](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID/versions) from JetBrains Marketplace and install it manually using
-  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
-
-- Manually:
-
-  Download the [latest release](https://github.com/MarvellinusVincent/ArcticDepthJetBrains/releases/latest) and install it manually using
-  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
-
+<p align="center">
+  <strong>📦 JetBrains Marketplace</strong><br />
+  <a href="https://plugins.jetbrains.com/plugin/YOUR_PLUGIN_ID">
+    <img alt="JetBrains Plugin Version" src="https://img.shields.io/jetbrains/plugin/v/YOUR_PLUGIN_ID?color=0E91D0&logo=jetbrains" />
+  </a>
+  <a href="https://plugins.jetbrains.com/plugin/YOUR_PLUGIN_ID">
+    <img alt="JetBrains Plugin Downloads" src="https://img.shields.io/jetbrains/plugin/d/YOUR_PLUGIN_ID?color=purple" />
+  </a>
+</p>
 
 ---
-Plugin based on the [IntelliJ Platform Plugin Template][template].
 
-[template]: https://github.com/JetBrains/intellij-platform-plugin-template
-[docs:plugin-description]: https://plugins.jetbrains.com/docs/intellij/plugin-user-experience.html#plugin-description-and-presentation
+## ✨ Features
+
+- 🎨 **Deep Blue Palette**: Designed to reduce eye strain and keep things elegant
+- 🔍 **High Contrast**: Clear visual distinction between syntax elements
+- 🧊 **Modern Aesthetic**: A clean and consistent look across all JetBrains IDEs
+- 💻 **Extensive Language Support**: Built to work with Java, Kotlin, Python, JS/TS, and more
+- 🖥️ **Custom UI Elements**: Styled tool windows, editor tabs, popups, and more
+
+---
+
+## 📦 Installation
+
+### From JetBrains Marketplace
+
+1. Open your JetBrains IDE (IntelliJ IDEA, PyCharm, WebStorm, etc.)
+2. Go to **Preferences / Settings** → **Plugins**
+3. Search for `"Arctic Depth"`
+4. Click **Install**
+5. Restart the IDE
+6. Go to **Preferences / Settings** → **Appearance & Behavior** → **Appearance**
+7. Select **Arctic Depth** as your theme
+
+---
+
+## 🎨 Color Palette
+
+(You can reuse the UI and Syntax color tables from your VS Code README here — they translate really well.)
+
+---
+
+## 🧩 Supported IDEs & Languages
+
+- IntelliJ IDEA (Community & Ultimate)
+- PyCharm
+- WebStorm
+- PhpStorm
+- CLion
+- GoLand
+- RubyMine
+- Rider
+- Android Studio
+- …and all JetBrains IDEs with theme support
+
+---
+
+## 🙌 Support
+
+If you enjoy using **Arctic Depth**, consider:
+
+- ⭐ Starring the repo
+- 🐞 Reporting issues or bugs via GitHub
+- 📣 Sharing the theme with others
+- 💬 Suggesting improvements
+
+---
+<!-- Plugin description end -->
