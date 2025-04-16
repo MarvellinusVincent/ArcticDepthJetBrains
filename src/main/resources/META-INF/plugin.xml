@@ -1,6 +1,6 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <id>com.github.marvellinusvincent.arcticdepthjetbrains</id>
+    <id>com.github.marvellinusvincent.arcticdepth</id>
     <name>ArcticDepth</name>
     <vendor>Marvellinus Vincent</vendor>
 
@@ -9,6 +9,6 @@
     <resource-bundle>messages.MyBundle</resource-bundle>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="com.github.marvellinusvincent.arcticdepthjetbrains" path="/theme/arcticDepth.theme.json"/>
+        <themeProvider id="com.github.marvellinusvincent.arcticdepth" path="/theme/arcticDepth.theme.json"/>
     </extensions>
 </idea-plugin>
