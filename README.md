@@ -1,6 +1,6 @@
 <!-- Plugin description -->
 <p align="center">
-  <img alt="Logo" src="logo_black.png" width="100" />
+  <img alt="Logo" src="logo_white.png" width="100" />
 </p>
 <h1 align="center">
   ❄️ Arctic Depth Theme for JetBrains
