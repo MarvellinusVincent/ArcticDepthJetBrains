@@ -6,17 +6,16 @@
   ❄️ Arctic Depth Theme for JetBrains
 </h1>
 <p align="center">
-  A sleek, high-contrast dark blue theme designed for developers who love rich blues and a futuristic aesthetic.<br />
-  Now available on <a href="https://plugins.jetbrains.com/plugin/YOUR_PLUGIN_ID">JetBrains</a>, <a href="https://marketplace.visualstudio.com/items?itemName=MarvellinusVincent.arctic-depth">VS Code</a>, <a href="https://www.npmjs.com/package/arctic-depth">npm</a>, and <a href="https://www.npmjs.com/package/arctic-depth-zed">Zed</a>.
+  A sleek, high-contrast dark blue theme designed for developers who love rich blues and a futuristic aesthetic. It combines deep oceanic tones with crisp Arctic highlights to create a visually striking yet comfortable coding environment. Also available on <a href="https://marketplace.visualstudio.com/items?itemName=MarvellinusVincent.arctic-depth">VS Code</a>, <a href="https://zed.dev/extensions?query=arctic+depth/">Zed</a>, and <a href="https://www.npmjs.com/package/arctic-depth">npm</a>
 </p>
 
 <p align="center">
   <strong>📦 JetBrains Marketplace</strong><br />
-  <a href="https://plugins.jetbrains.com/plugin/YOUR_PLUGIN_ID">
-    <img alt="JetBrains Plugin Version" src="https://img.shields.io/jetbrains/plugin/v/YOUR_PLUGIN_ID?color=0E91D0&logo=jetbrains" />
+  <a href="https://plugins.jetbrains.com/plugin/27074-arcticdepth">
+    <img alt="JetBrains Plugin Version" src="https://img.shields.io/jetbrains/plugin/v/com.github.marvellinusvincent.arcticdepth.svg" />
   </a>
-  <a href="https://plugins.jetbrains.com/plugin/YOUR_PLUGIN_ID">
-    <img alt="JetBrains Plugin Downloads" src="https://img.shields.io/jetbrains/plugin/d/YOUR_PLUGIN_ID?color=purple" />
+  <a href="https://plugins.jetbrains.com/plugin/27074-arcticdepth">
+    <img alt="JetBrains Plugin Downloads" src="https://img.shields.io/jetbrains/plugin/d/com.github.marvellinusvincent.arcticdepth.svg" />
   </a>
 </p>
 
