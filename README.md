@@ -1,7 +1,4 @@
 <!-- Plugin description -->
-<p align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/MarvellinusVincent/Arctic-Depth/main/images/logo_white.png" width="100" />
-</p>
 <h1 align="center">
   ❄️ Arctic Depth Theme for JetBrains
 </h1>
