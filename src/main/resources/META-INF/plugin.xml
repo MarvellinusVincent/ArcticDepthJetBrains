@@ -1,14 +1,22 @@
-<!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <id>com.github.marvellinusvincent.arcticdepth</id>
     <name>ArcticDepth</name>
     <vendor>Marvellinus Vincent</vendor>
+    <version>1.0.0</version>
 
-    <description>Artic Depth is a sleek, high-contrast dark blue theme designed for developers who love rich blues and a futuristic aesthetic. It combines deep oceanic tones with crisp Arctic highlights to create a visually striking yet comfortable coding environment. It's also available on VS Code, Zed, and npm</description>
+    <description>
+        Arctic Depth is a high-contrast dark blue theme with oceanic tones and Arctic highlights,
+        designed for readability and long coding sessions with reduced eye strain.
+    </description>
+
+    <change-notes>
+        Initial release of Arctic Depth theme for IntelliJ IDEA featuring high contrast dark blue
+        color scheme with oceanic tones and Arctic highlights optimized for readability and eye comfort.
+    </change-notes>
+
+    <idea-version since-build="203.0"/>
 
     <depends>com.intellij.modules.platform</depends>
-
-    <resource-bundle>messages.MyBundle</resource-bundle>
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="com.github.marvellinusvincent.arcticdepth" path="/theme/arcticDepth.theme.json"/>

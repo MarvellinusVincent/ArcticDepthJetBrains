@@ -1,4 +1,16 @@
 <!-- Plugin description -->
+Arctic Depth Theme for JetBrains
+
+A sleek, high-contrast dark blue theme designed for developers who love rich blues and a futuristic aesthetic. It combines deep oceanic tones with crisp Arctic highlights to create a visually striking yet comfortable coding environment. Also available on VS Code, Zed, and npm.
+
+Features:
+- Deep Blue Palette: Designed to reduce eye strain and keep things elegant
+- High Contrast: Clear visual distinction between syntax elements
+- Modern Aesthetic: A clean and consistent look across all JetBrains IDEs
+- Extensive Language Support: Built to work with Java, Kotlin, Python, JS/TS, and more
+- Custom UI Elements: Styled tool windows, editor tabs, popups, and more
+<!-- Plugin description end -->
+
 <h1 align="center">
   ❄️ Arctic Depth Theme for JetBrains
 </h1>
@@ -71,6 +83,3 @@ If you enjoy using **Arctic Depth**, consider:
 - 🐞 Reporting issues or bugs via GitHub
 - 📣 Sharing the theme with others
 - 💬 Suggesting improvements
-
----
-<!-- Plugin description end -->
