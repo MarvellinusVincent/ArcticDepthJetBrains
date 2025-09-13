@@ -31,7 +31,7 @@
         "os.mac": "selectionForeground"
       },
       "selectionInactiveBackground": "backgroundColor",
-      "selectionBackgroundInactive": "#backgroundColor",
+      "selectionBackgroundInactive": "backgroundColor",
 
       "disabledBackground": "backgroundColor",
       "inactiveBackground": "backgroundColor",
@@ -41,7 +41,7 @@
 
       "errorForeground": "#f78070",
 
-      "borderColor": "##5E81AC20",
+      "borderColor": "#5E81AC20",
       "disabledBorderColor": "#5E81AC20",
       "focusColor": "#5E81AC40",
       "focusedBorderColor": "#5E81AC40",
@@ -112,8 +112,10 @@
     },
 
     "CompletionPopup":  {
-      "selectionBackground": "#3D5A80",
-      "matchForeground": "accentColor"
+      "foreground": "#d4d4d4",
+      "selectionInactiveBackground": "#121417",
+      "selectionBackground": "#3f79c040",
+      "matchForeground": "#7F9BC5"
     },
 
     "ComplexPopup": {
@@ -354,7 +356,7 @@
     },
 
     "ToolTip": {
-      "background": "#backgroundColor"
+      "background": "backgroundColor"
     },
 
     "ToolWindow": {
@@ -416,7 +418,7 @@
         "selectionInactiveBackground": "#181A22"
       },
       "separatorColor": "#5E81AC40",
-      "SidePanel.background": "#backgroundColor",
+      "SidePanel.background": "backgroundColor",
       "Details.background": "backgroundColor"
     }
   },

@@ -55,6 +55,11 @@
         <option name="WARNING_HINT" value="323d49" />
         <option name="WHITESPACES" value="191b23" />
         <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="5d81ab" />
+        <option name="POPUP_BACKGROUND" value="121417"/>
+        <option name="POPUP_FOREGROUND" value="d4d4d4"/>
+        <option name="POPUP_SELECTION_BACKGROUND" value="3f79c040"/>
+        <option name="POPUP_SELECTION_FOREGROUND" value="7F9BC5"/>
+        <option name="POPUP_MATCH_FOREGROUND" value="7F9BC5"/>
     </colors>
     <attributes>
         <option name="BAD_CHARACTER">

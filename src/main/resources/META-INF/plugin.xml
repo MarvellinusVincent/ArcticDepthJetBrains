@@ -4,6 +4,10 @@
     <name>ArcticDepth</name>
     <vendor>Marvellinus Vincent</vendor>
 
+    <description>
+        Artic Depth is a sleek, high-contrast dark blue theme designed for developers who love rich blues and a futuristic aesthetic. It combines deep oceanic tones with crisp Arctic highlights to create a visually striking yet comfortable coding environment. It's also available on VS Code, Zed, and npm
+    </description>
+
     <depends>com.intellij.modules.platform</depends>
 
     <resource-bundle>messages.MyBundle</resource-bundle>
